@@ -1,3 +1,3 @@
-alert ('Welcome to Bash Commands');
-
- 
+function sayhello() {
+ alert("Hello, Welcome to Git Hub Bash Commands");
+}
